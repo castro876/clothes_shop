@@ -1,0 +1,178 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Carib Web Works - Affordable Web Design Services for Small Businesses</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+   <meta name="keywords" content="Carib, caribwebsite, carib website, caribwebsite.com, caribbean website, mobile sites, carib, jamaica designer, website development jamaica, jamaica website, web design jamaica, caribean website, caribbean web development, mobile jamaica">
+  <meta content="Carib Web Works provides affordable web design services tailored to small businesses. We believe that every business deserves a professional online presence, and we deliver cost-effective solutions without compromising quality." name="description">
+   <meta name="google-site-verification" content="irJE2MXeTNMpq3_rTzrTY9ez684Ut4iPAYiKAtpTWi8">
+ <!--Google adsense-->
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4210801067513368"
+     crossorigin="anonymous"></script>
+  <!-- Favicons -->
+  <link href="img/web-lowgo.png" rel="icon">
+  <link href="img/web-lowgo.png" rel="web-lowgo">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i%7c;Montserrat:300,400,500,700" rel="stylesheet">
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Icon -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+  </head>
+
+<body>
+
+  <!--==========================
+    Header section
+  ============================-->
+  <header id="header">
+    <div class="container-fluid">
+      <div id="logo" class="pull-left">
+        <a href="index.html"><img src="img/web-lowgo.png" alt="company logo"></a>   
+	  </div>
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li class="menu-active"><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="services.html">Packages</a></li>
+          <li><a href="portfolio.html">Portfolio</a></li>
+          <li><a href="policy.html">Policy</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+
+    <!--==========================
+      Team Section
+    ============================-->
+    <section id="team">
+      <div class="container">
+        <div class="section-header wow fadeInUp">
+          <h3 style="margin-top:60px;">Privacy Policy</h3>
+          <p class="all-text">At Carib Web Works, we take your privacy seriously. 
+		  This Privacy Policy describes how we collect, use, and disclose your personal information when you use our website or services. 
+		  By using our website or services, you consent to the collection, use, and disclosure of your personal information as described in this Privacy Policy.</p>
+        </div>
+		
+		<h5>Collection of Information</h5>
+		  <p>We may collect personal information such as your name, email address, 
+		 and phone number when you fill out a form on our website or when you communicate with us through email or phone. 
+		 We may also collect non-personal information such as your IP address, browser type, and referring URL.</p>
+		
+		<h5>Use of Information</h5> 
+		  <p>We use the information we collect to provide you with our services, to communicate with you, to improve our website and services, and to personalize your experience. We may also use the information to respond to your inquiries, 
+		  to send you marketing emails, and to comply with legal obligations.</p>
+		
+		<h5>Disclosure of Information</h5> 
+		  <p>We do not sell or rent your personal information to third parties. We may disclose your personal information to our service providers who assist us in providing our services, 
+		  to comply with legal obligations, or to protect our rights and property. 
+		  We may also disclose your personal information if we believe that disclosure is necessary to prevent harm or injury.</p>
+		
+		<h5>Security of Information</h5> 
+		  <p>We take reasonable measures to protect the personal information we collect from unauthorized access, use, or disclosure.</p>
+		
+		<h5>Links to Third-Party Websites</h5> 
+		  <p>Our website may contain links to third-party websites that are not under our control. We are not responsible for the privacy practices or content of those websites. 
+		  We encourage you to read the privacy policies of those websites.</p>
+		  
+		  <h5>Changes to Privacy Policy</h5> 
+		  <p>We may update this Privacy Policy from time to time. We will post the updated Privacy Policy on our website and indicate the date of the last revision.
+		  Your continued use of our website or services after the posting of any changes to this Privacy Policy means you accept those changes.</p>
+		
+		<h5>Contact Us</h5> 
+		  <p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:info@caribwebcare.com"><span style="color:#ff007f;">info@caribwebcare.com</span></a></p>
+      
+	    <h4 style="font-weight:bold">Terms & Condition</h4>
+	  
+	     <p>Welcome to Carib Web Works! We are a website design business based in Jamaica. Our goal is to provide high-quality web design services to our clients. 
+		 Before using our services, please read these Terms and Conditions carefully.</p>
+	  
+	   <h5>Introduction</h5>
+	    <p>By accessing or using our services, you agree to be bound by these Terms and Conditions. 
+		If you do not agree to these Terms and Conditions, you may not use our services.</p>
+	  
+	    <h5>Services</h5>
+	    <p>We offer web design services, including but not limited to website design and development, 
+		website hosting, website maintenance, and website optimization.</p>
+	  
+	     <h5>Payment</h5>
+	    <p>We require a deposit before starting any project. The deposit amount will be discussed with the client before the start of the project. 
+		The remaining balance is due upon completion of the project.</p>
+	  
+	  
+	    <h5>Content</h5>
+	    <p>The client is responsible for providing all content for the website, including text, images, videos, and other media. 
+		The client warrants that all content provided does not infringe any third-party rights, including but not limited to copyright, trademark, or privacy rights.</p>
+	  
+	    <h5>Intellectual Property</h5>
+	    <p>We retain all intellectual property rights to the website design and development, including but not limited to the code, graphics, and other elements of the website. The client may not reproduce, distribute, 
+		or use any part of the website design without our prior written consent</p>
+	  
+	  
+	     <h5>Liability</h5>
+	    <p>We will not be liable for any loss or damage arising from the use of our services, including but not limited to loss of profits, data, or business interruption. 
+		We will not be liable for any third-party claims arising from the use of the website.</p>
+	  
+	  
+	    <h5>Confidentiality</h5>
+	    <p>We will keep all client information confidential and will not disclose any information to third parties without the client's prior written consent.</p>
+	  
+	    <h5>Termination</h5>
+	    <p>Either party may terminate the agreement at any time with written notice. Upon termination, 
+		the client will pay for all services provided up to the termination date.</p>
+	   
+	   <h5>Governing Law</h5>
+	    <p>These Terms and Conditions are governed by the laws of the Caribbean. 
+		Any disputes arising from these Terms and Conditions will be resolved court.</p>
+	   
+	   <h5>Modification</h5>
+	    <p>We reserve the right to modify these Terms and Conditions at any time. Any changes will be effective immediately upon posting on our website. 
+		Your continued use of our services after any such changes constitutes your acceptance of the revised Terms and Conditions.</p>
+	   <br>If you have any questions about these Terms and Conditions, please contact us at caribwebcare@gmail.com.
+  </div>
+</section>
+  
+   <!--==========================
+    Footer
+  ============================-->
+  <footer id="footer">
+    <div class="container">
+      <div class="copyright">
+        &copy; Carib Web Works <strong>2024</strong>. All Rights Reserved
+      </div>
+    </div>
+  </footer>
+  
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/waypoints/waypoints.min.js"></script>
+  <script src="lib/counterup/counterup.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/isotope/isotope.pkgd.min.js"></script>
+  <script src="lib/lightbox/js/lightbox.min.js"></script>
+  <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+
+ </body>
+</html>

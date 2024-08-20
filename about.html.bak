@@ -1,0 +1,162 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Transform Your Online Presence with Carib Web Works</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+   <meta name="keywords" content="Carib, caribwebsite, carib website, caribwebsite.com, caribbean website, mobile sites, carib, jamaica designer, website development jamaica, jamaica website, web design jamaica, caribean website, caribbean web development, mobile jamaica">
+  <meta content= "Transform your online presence with Carib Web Works. We combine creativity and expertise to deliver innovative web solutions that elevate your brand. Let us help you stand out in the digital landscape." name="description">
+   <meta name="google-site-verification" content="irJE2MXeTNMpq3_rTzrTY9ez684Ut4iPAYiKAtpTWi8">
+ <!--Google adsense-->
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4210801067513368"
+     crossorigin="anonymous"></script>
+  <!-- Favicons -->
+  <link href="img/web-lowgo.png" rel="icon">
+  <link href="img/web-lowgo.png" rel="web-lowgo">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i%7c;Montserrat:300,400,500,700" rel="stylesheet">
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Icon -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+   
+   
+     <!--Google adsense-->
+
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4210801067513368"
+     crossorigin="anonymous"></script>
+   
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+  
+</head>
+
+<body>
+
+  <!--==========================
+    Header section
+  ============================-->
+  <header id="header">
+    <div class="container-fluid">
+      <div id="logo" class="pull-left">
+        <a href="index.html"><img src="img/web-lowgo.png" alt="company logo"></a>   
+	  </div>
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li class="menu-active"><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="services.html">Packages</a></li>
+          <li><a href="portfolio.html">Templates</a></li>
+          <li><a href="policy.html">Policy</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+   
+    <!--==========================
+      About Us Section
+    ============================-->
+    <section id="about">
+      <div class="container">
+       <h1 style="margin-top:70px; font-weight:700; color:black;">About Us</h1>
+        <div id="re-zide" style="">
+       <p id="f-size" style="color:black; line-height:26px; background-color:; padding:40px 25px 25px 25px; border-radius:100px 100px 0px 0px; text-align:justify;">Welcome to Carib Web Works, a website design business based in the beautiful Caribbean. At Carib Web Works, we're passionate about creating stunning websites that help our clients achieve their business goals.
+        We understand that in today's digital age, having a strong online presence is essential for any business. That's why we offer a range of services to help you establish your online presence, from website design and development to search engine optimization and social media management.
+
+       Our team of experienced designers and developers are dedicated to providing top-quality services that exceed our clients' expectations. We take the time to understand your business and its unique needs, ensuring that the website we create is tailored to your specific goals and objectives.
+
+     At Carib Web Works, we pride ourselves on our attention to detail and commitment to excellence. We believe that every website should not only look great, but also be user-friendly, functional, and effective. That's why we use the latest technologies and techniques to ensure that your website not only meets but exceeds industry standards.</p>
+    </div>
+ 
+
+        <div class="row about-cols">
+          <div class="col-md-4 wow fadeInUp">
+            <div class="about-col">
+              <div class="img">
+                <img src="img/about-mission.jpg" alt="People" class="img-fluid">
+                <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#">Our Mission</a></h2>
+              <p style="text-align:justify">
+                Our aim involves recipes with the ability to acheive our clients/associates goals.
+                Strategies were implemented to allocate the time needed to meet targets and deadlines.
+                As we aim for success, our footprints will keep track of records while leading our competitors.				
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="about-col">
+              <div class="img">
+                <img src="img/about-plan.jpg" alt="meeting" class="img-fluid">
+                <div class="icon"><i class="ion-ios-list-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#">Values</a></h2>
+              <p style="text-align:justify">
+                All our associates are categories of good morals principle.<br><br>
+			  <strong>Diversity</strong>-It doesn't matter your differences; all of us are connected.<br>
+			    <strong>Innovative</strong>-We are not just partners; we are builders of our structure. <br>
+				<strong>Honesty</strong>-Adopting principles, understanding our policy will keep the building blocks together. <br>
+				<strong>Trust</strong>-Building a strong relationship with good intentions prove to be trustworthy. <br>
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="about-col">
+              <div class="img">
+                <img src="img/about-vision.jpg" alt="art" class="img-fluid">
+                <div class="icon"><i class="ion-ios-eye-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#">Our Vision</a></h2>
+              <p style="text-align:justify">
+                Our vision is to be the leading website design company, known for our innovative and impactful designs that empower businesses to succeed in the digital world. We strive to push the boundaries of web design, creating visually stunning websites that enhance user experiences and drive conversions.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+	    
+	 <!--==========================
+    Footer
+  ============================-->
+  <footer id="footer">
+    <div class="container">
+      <div class="copyright">
+        &copy; Carib Web Works <strong>2024</strong>. All Rights Reserved
+      </div>
+    </div>
+  </footer>
+    </section>
+   
+	 
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/waypoints/waypoints.min.js"></script>
+  <script src="lib/counterup/counterup.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/isotope/isotope.pkgd.min.js"></script>
+  <script src="lib/lightbox/js/lightbox.min.js"></script>
+  <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+
+ </body>
+</html>

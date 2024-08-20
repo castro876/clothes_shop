@@ -1,0 +1,34 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	 <meta charset="utf-8">
+	 <title>"Carib Web Care - Crafting Innovative Web Design Solutions"</title>
+	<meta content="" name="keywords">
+    <meta content= "Carib Web Care specializes in crafting innovative web design solutions that captivate audiences. Our team of experts combines creativity and technical expertise to create visually stunning websites that leave a lasting impression." name="description">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css?family=Kaushan+Script%7cSource+Sans+Pro" rel="stylesheet">
+	  <link rel="stylesheet" href="thanks.css">
+	  <link href="img/web-lowgo.png" rel="icon">
+  <link href="img/web-lowgo.png" rel="web-lowgo">
+	</head>
+	<body>
+   <div class=content>
+  <div class="wrapper-1">
+    <div class="wrapper-2">
+      <h1>Order submitted</h1>
+      <p>Your order is submitted</p>
+      <p>You'll be contacted as soon as possible.</p>
+          <a href="index.html" style="color:black; background: #ff007f;border: 0; border-radius: 50px; padding: 10px 30px;color: #fff;transition: 0.4s;cursor: pointer; text-decoration:none;" class="go-home">Go home</a>
+    </div>
+      <div class="footer-like">
+      <p>Send us message?
+      <a href="contact.html">Click here</a>
+      </p>
+    </div>
+</div>
+</div>
+
+  </body>
+</html>
